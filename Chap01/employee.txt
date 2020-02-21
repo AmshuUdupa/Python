@@ -1,0 +1,8 @@
+Jim - salesman
+Right - Salesman
+Pam - Receptionist
+Michael - Manager
+Oscar - Accountant
+Toby - Sales Dept
+Kelly - Logistics
+Kirataka - Marketing
